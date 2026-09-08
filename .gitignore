@@ -1,0 +1,9 @@
+*.fq.gz
+*.fastq.gz
+*.pdf
+logs/
+primersCut_out/
+qualFiltered_out/
+merged_raw/
+quality_plots/
+
