@@ -1,0 +1,9 @@
+Metric	Value
+ASVs_before	485
+ASVs_after	485
+ASV_percent_retained	100
+Abundance_before	485105
+Abundance_after	484077
+Abundance_percent_retained	99.79
+TagJump_events_removed	12
+TagJump_reads_removed	1028
