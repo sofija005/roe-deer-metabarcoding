@@ -1,0 +1,24 @@
+=== LIB1 BOLD / BLAST FINAL QC ===
+
+Total ASVs: 485
+Total reads: 484077
+
+Plant-target ASVs: 323
+Plant-target reads: 460886
+
+Unassigned ASVs: 162
+Unassigned reads: 23191
+
+Low-confidence ASVs: 11
+Low-confidence reads: 985
+
+Ambiguous genus ASVs: 21
+Ambiguous genus reads: 242
+
+Ambiguous species ASVs: 141
+Ambiguous species reads: 383479
+
+Species-level assignments: 7
+Species-level reads: 272
+
+Unassigned sequences were retained separately as unresolved and were not interpreted as contaminants.

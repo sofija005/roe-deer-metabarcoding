@@ -1,0 +1,16 @@
+=== LIB1 TARGET-TAXA FILTERING ===
+
+Input ASVs: 485
+Input reads: 484077
+
+Plant target criterion: Phylum = Tracheophyta
+
+Plant-target ASVs retained: 323
+Plant-target reads retained: 460886 (95.21%)
+
+Unassigned ASVs separated: 162
+Unassigned reads separated: 23191 (4.79%)
+
+Low-confidence plant ASVs retained but flagged: 11
+
+Note: unassigned sequences were not interpreted as contaminants. They were retained separately as unresolved sequences.

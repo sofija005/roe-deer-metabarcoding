@@ -1,0 +1,15 @@
+=== LIB1 FINAL FASTA / TABLE ID CHECK ===
+
+PLANT TARGET
+Table ASVs: 323
+FASTA ASVs: 323
+Missing from FASTA: 0
+Missing from table: 0
+
+UNASSIGNED
+Table ASVs: 162
+FASTA ASVs: 162
+Missing from FASTA: 0
+Missing from table: 0
+
+RESULT: PASS

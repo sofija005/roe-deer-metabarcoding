@@ -1,7 +1,7 @@
 # LIB1 – Plants ITS
 
 This directory contains the bioinformatic processing workflow for the
-plant ITS2 metabarcoding library of roe deer (*Capreolus capreolus*).
+plant ITS metabarcoding library of roe deer (*Capreolus capreolus*).
 
 ## Workflow
 
