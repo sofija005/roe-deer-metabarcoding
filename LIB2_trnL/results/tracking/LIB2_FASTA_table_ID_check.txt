@@ -1,0 +1,5 @@
+LIB2 FASTA / abundance-table ASV ID check
+
+FASTA IDs: 313
+Table IDs: 313
+PASS: FASTA and abundance-table ASV identifiers match exactly.

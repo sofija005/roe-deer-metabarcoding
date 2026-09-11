@@ -16,4 +16,8 @@ metabarcoding library of roe deer (*Capreolus capreolus*).
 ## Directories
 
 - `scripts/` – scripts used for each processing step
-- `results/` – summary tables and final tracking results
+- `results/denoising/` – DADA2 denoising outputs
+- `results/merged/` – merged paired-end output
+- `results/asv_tables/` – raw, chimera-filtered and UNCROSS2-filtered ASV tables
+- `results/fasta/` – final ASV sequences in FASTA format
+- `results/tracking/` – sequence/ASV tracking and filtering summaries

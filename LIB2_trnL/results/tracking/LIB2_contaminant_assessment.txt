@@ -1,0 +1,3 @@
+Contaminant assessment was not performed because suitable negative controls,
+extraction blanks, PCR blanks, or associated metadata were not available for LIB2.
+Therefore, no contaminant-filtered ASV table was generated.
