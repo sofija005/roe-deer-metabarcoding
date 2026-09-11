@@ -1,0 +1,5 @@
+LIB1 FASTA / abundance-table ASV ID check
+
+FASTA IDs: 485
+Table IDs: 485
+PASS: FASTA and abundance-table ASV identifiers match exactly.
