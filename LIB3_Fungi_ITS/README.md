@@ -1,6 +1,6 @@
-# LIB3 – Fungi ITS1
+# LIB3 – Fungi ITS
 
-This directory contains the bioinformatic processing workflow for the fungal ITS1
+This directory contains the bioinformatic processing workflow for the fungal ITS
 metabarcoding library of roe deer (*Capreolus capreolus*).
 
 ## Workflow
