@@ -12,6 +12,18 @@ plant ITS metabarcoding library of roe deer (*Capreolus capreolus*).
 5. Chimera removal
 6. UNCROSS2 tag-jump filtering
 7. Final sequence and ASV tracking
+8. BOLD taxonomic assignment using the PLANT:PUBLIC reference library.
+9. Merge BOLD classification and combined-hit outputs across all batches.
+10. Link taxonomy assignments to the UNCROSS2-filtered ASV abundance table.
+11. Perform taxonomy QC:
+    - review species, genus and family assignments,
+    - flag unassigned, ambiguous and low-confidence assignments,
+    - inspect unexpected taxa,
+    - evaluate sample-level assignment quality.
+12. Filter to the biological plant target (Tracheophyta).
+13. Generate the final plant-target ASV abundance + taxonomy table.
+14. Generate the final plant-target FASTA and separate unresolved ASVs.
+15. Perform final sequence tracking and FASTA/table ASV ID consistency checks.
 
 ## Directories
 
