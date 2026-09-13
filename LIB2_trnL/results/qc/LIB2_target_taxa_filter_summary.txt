@@ -1,0 +1,15 @@
+LIB2 TARGET-TAXA FILTER SUMMARY
+==============================
+
+Target criterion: Phylum = Streptophyta
+Reference database: plant-specific Taberlet trnL c/h database
+
+Input ASVs: 313
+Input reads: 236647
+Plant-target ASVs retained: 313
+Plant-target reads retained: 236647
+Non-target ASVs removed: 0
+
+Note: Because a plant-specific reference database was used, this step
+should not be interpreted as an independent test for all possible
+non-plant contaminants.

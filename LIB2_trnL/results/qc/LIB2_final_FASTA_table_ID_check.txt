@@ -1,0 +1,8 @@
+LIB2 FINAL FASTA/TABLE ID CHECK
+===============================
+
+Table ASVs: 313
+FASTA ASVs: 313
+Missing from FASTA: 0
+Missing from table: 0
+RESULT: PASS

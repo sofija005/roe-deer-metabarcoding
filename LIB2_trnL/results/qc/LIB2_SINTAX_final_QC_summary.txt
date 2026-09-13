@@ -1,0 +1,26 @@
+LIB2 SINTAX FINAL TAXONOMY QC SUMMARY
+====================================
+
+Total ASVs: 313
+Total reads: 236647
+SINTAX confidence threshold: 0.80
+
+Plant-target ASVs: 313
+Plant-target reads: 236647
+Non-target ASVs: 0
+Non-target reads: 0
+
+LOWER-RANK RESOLUTION
+Family unresolved: 186 ASVs, 197003 reads
+Genus unresolved: 257 ASVs, 224251 reads
+Species unresolved: 302 ASVs, 232879 reads
+Low-resolution (accepted only to phylum/class/order): 186 ASVs, 197003 reads
+
+Interpretation:
+- No ASVs were unassigned at the plant/phylum level.
+- No non-target ASVs were identified using this plant-specific database.
+- Lower-rank assignments below the 0.80 threshold were not accepted.
+- SINTAX does not directly report tied best-hit ambiguity; therefore
+  ambiguity was not quantified in the same way as for BOLD results.
+- The plant-specific database is not an independent screen for all
+  possible non-plant contaminants.

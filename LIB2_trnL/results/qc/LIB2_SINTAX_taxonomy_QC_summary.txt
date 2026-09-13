@@ -1,0 +1,12 @@
+LIB2 SINTAX TAXONOMY QC SUMMARY
+===============================
+Total ASVs: 313
+SINTAX confidence threshold: 0.80
+
+Lowest accepted taxonomic rank:
+Class: 169
+Family: 71
+Genus: 45
+Order: 14
+Species: 11
+Phylum: 3

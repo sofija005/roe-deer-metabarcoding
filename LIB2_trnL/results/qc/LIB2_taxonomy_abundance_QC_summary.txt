@@ -1,0 +1,53 @@
+LIB2 TAXONOMY + ABUNDANCE QC SUMMARY
+====================================
+
+Total ASVs in abundance table: 313
+Total reads: 236647
+Missing taxonomy IDs: 0
+Extra taxonomy IDs: 0
+
+LOWEST ACCEPTED TAXONOMIC RANK
+Class: 169 ASVs, 183463 reads (77.53%)
+Family: 71 ASVs, 27248 reads (11.51%)
+Genus: 45 ASVs, 8628 reads (3.65%)
+Order: 14 ASVs, 13529 reads (5.72%)
+Species: 11 ASVs, 3768 reads (1.59%)
+Phylum: 3 ASVs, 11 reads (0.00%)
+
+PHYLA
+Streptophyta: 313 ASVs, 236647 reads (100.00%)
+
+TOP FAMILIES BY READ ABUNDANCE
+Unassigned: 186 ASVs, 197003 reads
+Rosaceae: 4 ASVs, 8636 reads
+Lamiaceae: 19 ASVs, 7868 reads
+Poaceae: 8 ASVs, 4848 reads
+Juncaceae: 15 ASVs, 3757 reads
+Cyperaceae: 5 ASVs, 3208 reads
+Pinaceae: 18 ASVs, 3070 reads
+Violaceae: 12 ASVs, 2223 reads
+Caryophyllaceae: 1 ASVs, 1987 reads
+Primulaceae: 6 ASVs, 1596 reads
+Orobanchaceae: 1 ASVs, 705 reads
+Iridaceae: 3 ASVs, 306 reads
+Rubiaceae: 8 ASVs, 244 reads
+Fabaceae: 6 ASVs, 210 reads
+Sapindaceae: 5 ASVs, 209 reads
+
+TOP GENERA BY READ ABUNDANCE
+Unassigned: 257 ASVs, 224251 reads
+Luzula: 14 ASVs, 3739 reads
+Carex: 5 ASVs, 3208 reads
+Abies: 15 ASVs, 2191 reads
+Viola: 6 ASVs, 1050 reads
+Picea: 3 ASVs, 879 reads
+Lathraea: 1 ASVs, 705 reads
+Acer: 5 ASVs, 209 reads
+Hypericum: 2 ASVs, 196 reads
+Clematis: 2 ASVs, 128 reads
+Salix: 2 ASVs, 57 reads
+Prunus: 1 ASVs, 34 reads
+
+SPECIES-LEVEL ASSIGNMENTS
+Luzula acuminata: 10 ASVs, 3063 reads
+Lathraea squamaria: 1 ASVs, 705 reads

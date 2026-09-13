@@ -12,6 +12,15 @@ metabarcoding library of roe deer (*Capreolus capreolus*).
 5. Chimera removal
 6. UNCROSS2 tag-jump filtering
 7. Final sequence and ASV tracking
+7. Taxonomic assignment using SINTAX with a marker-specific Taberlet trnL c/h reference database.
+8. Apply a SINTAX confidence threshold of 0.80.
+9. Link accepted taxonomy assignments to the UNCROSS2-filtered ASV abundance table.
+10. Review species-, genus-, family- and higher-rank assignments.
+11. Flag unresolved lower-rank assignments and inspect possible non-target taxa.
+12. Retain plant-target sequences classified within Streptophyta.
+13. Generate the final plant-target ASV abundance + taxonomy table and FASTA.
+14. Perform final taxonomy-aware sequence tracking.
+15. Verify consistency of ASV identifiers between the final FASTA and abundance table.
 
 ## Directories
 
