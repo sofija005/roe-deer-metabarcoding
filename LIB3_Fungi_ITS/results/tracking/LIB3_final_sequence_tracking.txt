@@ -1,0 +1,37 @@
+=== FINAL LIB3 SEQUENCE TRACKING ===
+
+READ TRACKING
+Input reads: 606193
+Quality-filtered reads: 458045
+Denoised R1: 453994
+Denoised R2: 454454
+Merged reads: 441970
+Non-chimeric reads: 418904
+UNCROSS2-filtered reads: 417255
+Final target-Fungi reads: 417255
+
+Overall read retention: 68.83%
+
+ASV TRACKING
+Raw ASV table: 951
+Non-chimeric ASVs: 820
+UNCROSS2-filtered ASVs: 820
+Taxonomically assigned ASVs: 820
+Final target-Fungi ASVs: 820
+
+Final ASV retention from raw ASV table: 86.23%
+
+TAXONOMY QC
+Confidence threshold: 0.80
+Family-level assignment: 382 ASVs (46.59%)
+Genus-level assignment: 338 ASVs (41.22%)
+Species-level assignment: 230 ASVs (28.05%)
+
+Ambiguous assignments: 57 ASVs
+ASVs with at least one lower-confidence proposed rank: 461
+Non-target ASVs: 0
+Completely unassigned ASVs: 0
+
+CONTAMINANT ASSESSMENT
+Not performed because no suitable negative controls or metadata were available.
+Ambiguous and low-confidence assignments were documented but were not automatically treated as contaminants.

@@ -1,0 +1,22 @@
+=== LIB3 FINAL ASV ID CONSISTENCY CHECK ===
+
+FASTA IDs: 820
+Abundance table IDs: 820
+Taxonomy table IDs: 820
+Final merged table IDs: 820
+
+FASTA == abundance: True
+FASTA == taxonomy: True
+FASTA == final table: True
+Abundance == taxonomy: True
+Abundance == final table: True
+
+IDs missing from FASTA: 0
+IDs missing from abundance table: 0
+IDs missing from taxonomy table: 0
+IDs missing from final table: 0
+
+Duplicate FASTA IDs: 0
+Duplicate abundance IDs: 0
+Duplicate taxonomy IDs: 0
+Duplicate final-table IDs: 0

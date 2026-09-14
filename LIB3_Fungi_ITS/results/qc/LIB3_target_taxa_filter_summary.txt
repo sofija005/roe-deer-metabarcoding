@@ -1,0 +1,14 @@
+=== LIB3 TARGET-TAXA FILTERING ===
+Target kingdom: Fungi
+
+ASVs before filtering: 820
+ASVs after filtering: 820
+ASV retention: 100.00%
+
+Reads before filtering: 417255
+Reads after filtering: 417255
+Read retention: 100.00%
+
+Non-target ASVs: 0
+Unassigned ASVs: 0
+FASTA sequences retained: 820

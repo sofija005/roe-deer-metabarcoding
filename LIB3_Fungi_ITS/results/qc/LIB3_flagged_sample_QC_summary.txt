@@ -1,0 +1,46 @@
+
+=== AMBIGUOUS SAMPLE ASSOCIATION ===
+Flagged ASVs: 57
+ Sample  Flagged_ASVs  Flagged_reads
+LME1679            27            966
+LME1635            18           1034
+LME1663            11            369
+LME1637            10           1073
+LME1656             4            241
+LME1652             4            174
+LME1692             3           1286
+LME1689             3            185
+LME1668             3            109
+LME1708             2           2504
+LME1714             2            857
+LME1670             2            129
+LME1695             2             47
+LME1636             2             39
+LME1646             1             86
+LME1702             1             12
+
+=== LOW_CONFIDENCE SAMPLE ASSOCIATION ===
+Flagged ASVs: 461
+ Sample  Flagged_ASVs  Flagged_reads
+LME1679           183           8924
+LME1635           107           8171
+LME1637            63           4432
+LME1663            47           3933
+LME1668            31           9148
+LME1652            27           3891
+LME1646            23           3362
+LME1670            21           2728
+LME1705            20            891
+LME1698            19           4331
+LME1701            18            766
+LME1695            17           7174
+LME1656            17           3353
+LME1636            14           6168
+LME1692            13           2425
+LME1634            12           9205
+LME1702             7           3173
+LME1708             7           2513
+LME1689             5            740
+LME1714             4            903
+
+QC files written to: taxonomy/BOLD_SINTAX/qc

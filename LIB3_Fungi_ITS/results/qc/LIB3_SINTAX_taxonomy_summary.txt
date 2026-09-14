@@ -1,0 +1,14 @@
+=== LIB3 SINTAX TAXONOMY SUMMARY ===
+Confidence cutoff: 0.80
+ASVs processed: 820
+Invalid input rows: 0
+
+Deepest accepted taxonomic rank:
+Species: 230 (28.05%)
+Genus: 108 (13.17%)
+Family: 82 (10.00%)
+Order: 111 (13.54%)
+Class: 48 (5.85%)
+Phylum: 149 (18.17%)
+Kingdom: 92 (11.22%)
+Unassigned: 0 (0.00%)

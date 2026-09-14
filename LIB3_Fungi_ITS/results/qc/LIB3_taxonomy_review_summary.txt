@@ -1,0 +1,64 @@
+=== LIB3 TAXONOMY REVIEW ===
+Total ASVs: 820
+Family assigned: 382 (46.59%) | unassigned at family: 438
+Genus assigned: 338 (41.22%) | unassigned at genus: 482
+Species assigned: 230 (28.05%) | unassigned at species: 590
+
+Ambiguous ASVs: 57
+ASVs with at least one proposed rank below 0.80: 461
+
+=== TOP FAMILIES ===
+Family
+Psathyrellaceae                     23
+Nectriaceae                         15
+Mycosphaerellaceae                  14
+Lasiosphaeriaceae                   12
+Thelebolaceae                       12
+Tremellaceae                        12
+Trichocomaceae                      11
+Xylariaceae                         11
+Ascomycota_family_incertae_sedis    10
+Agaricaceae                         10
+Cortinariaceae                       9
+Cystobasidiaceae                     8
+Microascaceae                        7
+Sporidiobolaceae                     7
+Hypocreaceae                         7
+
+=== TOP GENERA ===
+Genus
+Penicillium      10
+Coprinopsis       9
+Coprinellus       9
+Cystobasidium     8
+Cortinarius       7
+Fusarium          6
+Pilidium          6
+Trichobolus       6
+Rhodotorula       5
+Papiliotrema      5
+Dioszegia         5
+Tomentella        5
+Pilobolus         4
+Cytospora         4
+Preussia          4
+
+=== TOP SPECIES ===
+Species
+Trichobolus_sp._zukalii-CA01    5
+Pilobolus_crystallinus          4
+Pilidium_concavum               4
+Vuilleminia_comedens            3
+Papiliotrema_flavescens         3
+Dothiopeltis_n._sp.             3
+Coniothyrium_fuckelii           2
+Phallus_impudicus               2
+Pichia_fermentans               2
+Naganishia_albida               2
+Sclerostagonospora_sp.          2
+Coprinopsis_semitalis           2
+Ascobolus_sp._CA01              2
+Coprinellus_micaceus            2
+Flammocladiella_decora          2
+
+QC files written to: taxonomy/BOLD_SINTAX/qc
